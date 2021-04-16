@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69460001-df38-4323-91c3-466af3d23116" name="Default Changelist" comment="added openapi failed">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="69460001-df38-4323-91c3-466af3d23116" name="Default Changelist" comment="added openapi definition failed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618601941420</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="added openapi definition failed">
+      <created>1618602073836</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1618602073836</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -169,6 +174,7 @@
     <MESSAGE value="added responseentityt suggested in homeowkr. pass" />
     <MESSAGE value="added jeelsalescontroller failed" />
     <MESSAGE value="added openapi failed" />
-    <option name="LAST_COMMIT_MESSAGE" value="added openapi failed" />
+    <MESSAGE value="added openapi definition failed" />
+    <option name="LAST_COMMIT_MESSAGE" value="added openapi definition failed" />
   </component>
 </project>
