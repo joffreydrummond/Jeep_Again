@@ -8,6 +8,7 @@ import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.core.ParameterizedTypeReference;
 import org.springframework.http.HttpMethod;
+import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 
 import java.util.List;
@@ -35,6 +36,9 @@ public class FetchJeepTest extends FetchJeepTestSupport {
 
         //Then 200 success OK status code
 
+//assert (res.getStatusCode().is2xxSuccessful());
+
+        assert (res.getStatusCode().equals(HttpStatus.OK));
 
     }
 }
