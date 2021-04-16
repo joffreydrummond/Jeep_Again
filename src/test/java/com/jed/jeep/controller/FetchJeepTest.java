@@ -6,6 +6,7 @@ import com.jed.jeep.entity.JeepModel;
 import net.bytebuddy.NamingStrategy;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.http.ResponseEntity;
 
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
 public class FetchJeepTest extends FetchJeepTestSupport {
@@ -21,7 +22,8 @@ public class FetchJeepTest extends FetchJeepTestSupport {
 
         //When connection is made to URI
 
-        getRestTemplate().getForEntity(uri, Jeep.class);
+
+        ResponseEntity<Jeep> res = getRestTemplate().getForEntity(uri, Jeep.class);
 
         //Then 200 success OK status code
 
