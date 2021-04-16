@@ -1,6 +1,7 @@
 package com.jed.jeep.controller;
 
 import com.jed.jeep.controller.support.FetchJeepTestSupport;
+import com.jed.jeep.entity.Jeep;
 import com.jed.jeep.entity.JeepModel;
 import net.bytebuddy.NamingStrategy;
 import org.junit.jupiter.api.Test;
