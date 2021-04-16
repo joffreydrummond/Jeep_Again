@@ -6,7 +6,11 @@ import com.jed.jeep.entity.JeepModel;
 import net.bytebuddy.NamingStrategy;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.core.ParameterizedTypeReference;
+import org.springframework.http.HttpMethod;
 import org.springframework.http.ResponseEntity;
+
+import java.util.List;
 
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
 public class FetchJeepTest extends FetchJeepTestSupport {
@@ -24,6 +28,10 @@ public class FetchJeepTest extends FetchJeepTestSupport {
 
 
         ResponseEntity<Jeep> res = getRestTemplate().getForEntity(uri, Jeep.class);
+
+//        ResponseEntity<Jeep> res1 =
+//        getRestTemplate()
+//            .getForEntity(uri, Jeep.class, model, trim, new ParameterizedTypeReference<>() {});
 
         //Then 200 success OK status code
 
