@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69460001-df38-4323-91c3-466af3d23116" name="Default Changelist" comment="Added starter code. added jdbc dependacy." />
+    <list default="true" id="69460001-df38-4323-91c3-466af3d23116" name="Default Changelist" comment="added jeep sales main method">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jed/jeep/entity/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jed/jeep/entity/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jed/jeep/entity/OrderRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jed/jeep/entity/OrderRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/jed/jeep1/JeepSales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jed/jeep/JeepSales.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,10 +37,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/jed/jeep" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/jed/jeep/entity" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.jed.jeep.entity" />
+      <recent name="com.jed.jeep.controller" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Joffrey New\Desktop\Promineo Tech - 2021\Week13\Code\src\main\java\com\jed\jeep\entity" />
       <recent name="C:\Users\Joffrey New\Desktop\Promineo Tech - 2021\Week13\Code\src\main\java\com\jed\jeep\dao" />
@@ -43,6 +55,28 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Joffrey New\Desktop\Promineo Tech - 2021\Week13\Code" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="FetchJeepTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Jeep" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jed.jeep.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jed.jeep.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.jed.jeep.controller.FetchJeepTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FetchJeepTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -60,11 +94,26 @@
       <option name="project" value="LOCAL" />
       <updated>1618599273527</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added jeep sales main method">
+      <created>1618599558845</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1618599558845</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added jeep sales main method">
+      <created>1618599579164</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1618599579164</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added starter code. added jdbc dependacy." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added starter code. added jdbc dependacy." />
+    <MESSAGE value="added jeep sales main method" />
+    <option name="LAST_COMMIT_MESSAGE" value="added jeep sales main method" />
   </component>
 </project>

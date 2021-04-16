@@ -1,4 +1,4 @@
-package com.jed.jeep1;
+package com.jed.jeep;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
