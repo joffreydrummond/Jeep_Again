@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69460001-df38-4323-91c3-466af3d23116" name="Default Changelist" comment="added jeep sales main method">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+    <list default="true" id="69460001-df38-4323-91c3-466af3d23116" name="Default Changelist" comment="added openapi failed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jed/jeep/entity/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jed/jeep/entity/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jed/jeep/entity/OrderRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jed/jeep/entity/OrderRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/jed/jeep1/JeepSales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/jed/jeep/JeepSales.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -27,7 +24,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1rGKqkyXnbBfubiFBqjfJKWqgJC" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -108,12 +107,68 @@
       <option name="project" value="LOCAL" />
       <updated>1618599579164</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="uri is working. passed">
+      <created>1618600985561</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1618600985561</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added jeep class. failed">
+      <created>1618601048419</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1618601048419</updated>
+    </task>
+    <task id="LOCAL-00006" summary="updated jeep params. pass">
+      <created>1618601121969</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1618601121969</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added jeep instance variables. pass">
+      <created>1618601338804</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1618601338804</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added responseentityt suggested in homeowkr. pass">
+      <created>1618601579615</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1618601579615</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added jeelsalescontroller failed">
+      <created>1618601838899</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1618601838899</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added openapi failed">
+      <created>1618601941420</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1618601941420</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added starter code. added jdbc dependacy." />
     <MESSAGE value="added jeep sales main method" />
-    <option name="LAST_COMMIT_MESSAGE" value="added jeep sales main method" />
+    <MESSAGE value="uri is working. passed" />
+    <MESSAGE value="added jeep class. failed" />
+    <MESSAGE value="updated jeep params. pass" />
+    <MESSAGE value="added jeep instance variables. pass" />
+    <MESSAGE value="added responseentityt suggested in homeowkr. pass" />
+    <MESSAGE value="added jeelsalescontroller failed" />
+    <MESSAGE value="added openapi failed" />
+    <option name="LAST_COMMIT_MESSAGE" value="added openapi failed" />
   </component>
 </project>
